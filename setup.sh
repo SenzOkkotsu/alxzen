@@ -5,7 +5,7 @@
 # Supported OS: Ubuntu 20.04/22.04/24.04, Debian 11/12/13
 #
 # Copyright © 2024-2026 alxzy-group
-# https://github.com/alxzy-group/alxzen
+# https://github.com/SenzOkkotsu/alxzen
 # ==============================================================================
 
 set -e
